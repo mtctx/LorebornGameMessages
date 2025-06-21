@@ -5,8 +5,8 @@
     "open": "Open {{name}}",
     "close": "Close {{name}}",
     "toggle": {
-      "on": "Turn on {{name}}",
-      "off": "Turn off {{name}}"
+      "on": "Turn {{name}} on",
+      "off": "Turn {{name}} off"
     }
   },
   "object": {
