@@ -3,13 +3,18 @@
     "pickup": "Pick up {{name}}",
     "drop": "Drop {{name}}",
     "open": "Open {{name}}",
-    "close": "Close {{name}}"
+    "close": "Close {{name}}",
+    "toggle": {
+      "on": "Turn on {{name}}",
+      "off": "Turn off {{name}}"
+    }
   },
   "object": {
     "name": {
       "measuring_tape": "Measuring Tape",
       "door": "Door",
-      "flashlight": "Flashlight"
+      "flashlight": "Flashlight",
+      "light": "Light"
     }
   }
 }

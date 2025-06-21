@@ -3,13 +3,18 @@
     "pickup": "{{name}} aufheben",
     "drop": "{{name}} fallenlassen",
     "open": "{{name}} öffnen",
-    "close": "{{name}} schließen"
+    "close": "{{name}} schließen",
+    "toggle": {
+      "on": "{{name}} einschalten",
+      "off": "{{name}} ausschalten"
+    }
   },
   "object": {
     "name": {
       "measuring_tape": "Maßband",
       "door": "Tür",
-      "flashlight": "Taschenlampe"
+      "flashlight": "Taschenlampe",
+      "light": "Licht"
     }
   }
 }
