@@ -1,0 +1,15 @@
+{
+  "interaction": {
+    "pickup": "{{name}} aufheben",
+    "drop": "{{name}} fallenlassen",
+    "open": "{{name}} öffnen",
+    "close": "{{name}} schließen"
+  },
+  "object": {
+    "name": {
+      "measuring_tape": "Maßband",
+      "door": "Tür",
+      "flashlight": "Taschenlampe"
+    }
+  }
+}

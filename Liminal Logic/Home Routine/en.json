@@ -1,0 +1,15 @@
+{
+  "interaction": {
+    "pickup": "Pick up {{name}}",
+    "drop": "Drop {{name}}",
+    "open": "Open {{name}}",
+    "close": "Close {{name}}"
+  },
+  "object": {
+    "name": {
+      "measuring_tape": "Measuring Tape",
+      "door": "Door",
+      "flashlight": "Flashlight"
+    }
+  }
+}
